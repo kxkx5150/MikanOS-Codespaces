@@ -7,7 +7,6 @@ ARG WEBSOCKIFY_VERSION=0.9.0
 RUN apt-get update \
  && apt-get install -y --no-install-recommends \
     build-essential \
-    x11-xserver-utils \
     llvm-14-dev \
     lld-14 \
     clang-14 \
