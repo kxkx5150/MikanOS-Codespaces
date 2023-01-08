@@ -27,6 +27,15 @@ GitHub Codespaces
 
 <br><br><br><br>
 
+
+
+
+https://user-images.githubusercontent.com/10168979/211178773-447129bb-4510-4ced-9af4-71f876518817.mp4
+
+
+
+
+
 ## GitHub Codespaces
 
 Web上で 開発環境を構築
@@ -35,10 +44,6 @@ Web上で 開発環境を構築
 Use this templateボタンを押して、リポジトリを作ってCodespacesで開いて下さい。  
 
 環境構築が終われば、web上のvscodeで開発出来ます。
-
-<br><br><br>
-
-[devcontainer版はこちら](https://github.com/kxkx5150/MikanOS-devcontainer-Codespaces/tree/ubuntu22.04)
 
 <br><br><br><br>
 
