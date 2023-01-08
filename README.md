@@ -85,13 +85,13 @@ target.txt、buildenv.shは起動時に読み込むようにしました。
 
 <br><br><br>
 
-カーネル + uefi をビルド + qemuで確認
+カーネル + uefi + app をビルド + qemuで確認
 ```shell
 make run
 ```
 
 
-カーネル + uefi をビルド
+カーネル + uefi + app をビルド
 ```shell
 make
 ```
