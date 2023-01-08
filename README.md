@@ -4,7 +4,7 @@ GitHub Codespaces
 
 <br><br><br><br>
 
-## [vsocde devcontainer版はこちら](https://github.com/kxkx5150/MikanOS-devcontainer)
+## [ devcontainer版はこちら](https://github.com/kxkx5150/MikanOS-devcontainer)
 
 
 <br><br><br><br>
