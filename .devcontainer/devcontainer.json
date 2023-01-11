@@ -33,7 +33,9 @@
 	"remoteUser": "vscode",
 	"runArgs": [
 		"--privileged",
-		"--disable-content-trust=true"
+		"--disable-content-trust=true",
+		"-e", 
+		"EXTRA=\"-display none\""
 		// "-e",
 		// "PULSE_SERVER=/mnt/wslg/PulseServer",
 		// "-e",
